@@ -19,7 +19,7 @@ class ParserBazosSK:
 			"Connection": "keep-alive"
 			}
 
-		self.headers_person = headers_person = {
+		self.headers_person = {
 			"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 			"Host": "www.bazos.sk",
 			"User-Agent": random(),
